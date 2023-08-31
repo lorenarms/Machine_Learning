@@ -1,5 +1,12 @@
 <a name="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Machine Learning Projects<br><sup>Built with Python</sup>
 
 
@@ -63,3 +70,16 @@ License information goes here.
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/lorenarms/Machine_Learning.svg?style=for-the-badge
+[contributors-url]: https://github.com/lorenarms/Machine_Learning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lorenarms/Machine_Learning.svg?style=for-the-badge
+[forks-url]: https://github.com/lorenarms/Machine_Learning/forks
+[stars-shield]: https://img.shields.io/github/stars/lorenarms/Machine_Learning.svg?style=for-the-badge
+[stars-url]: https://github.com/lorenarms/Machine_Learning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lorenarms/Machine_Learning.svg?style=for-the-badge
+[issues-url]: https://github.com/lorenarms/Machine_Learning/issues
+[license-shield]: https://img.shields.io/github/license/lorenarms/Machine_Learning.svg?style=for-the-badge
+[license-url]: https://github.com/lorenarms/Machine_Learning/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=blue
+[linkedin-url]: https://linkedin.com/in/lorenarms95

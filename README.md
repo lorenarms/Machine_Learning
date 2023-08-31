@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
-# Machine Learning Projects
-### Built with Python
+# Machine Learning Projects<br><sup>Built with Python</sup>
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,12 +26,12 @@
 
 More information about this project goes here.
 
-### Heart Disease Prediction Project
+### 💗 Heart Disease Prediction Project
 
 More information goes here.
 <a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">More Information</a>
 
-### Bulldozer Price Prediction Project
+### 🚧 Bulldozer Price Prediction Project
 
 More information goes here.
 <a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">More Information</a>

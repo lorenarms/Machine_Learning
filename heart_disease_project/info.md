@@ -1,4 +1,5 @@
-# Predicting Heart Disease Using Machine Learning
+# Predicting Heart Disease Using Machine Learning 
+<a href="https://github.com/lorenarms/Machine_Learning"><strong> ⇦ Go Back</strong></a>
 
 **The goal of this project was to develop a machine learning model that could predict heart disease in a random data set of patients, with a 95% accuracy or higher.** 
 
@@ -94,6 +95,8 @@ Having not hit the evaluation metric of 95% with our model, there are some thing
 3. The current model could potentially be tuned more. The RandomForestClassifier, for instance, was not run through GridSearchCV, and thus a “best params” value was not found.
 
 However, the experiment does show the beginnings of a “proof of concept”, in that a machine learning model was able to be trained to predict whether a patient does or does not have heart disease, based solely on a few features. A more in depth experiment is worth exploring in the future.
+
+<a href="https://github.com/lorenarms/Machine_Learning"><strong> ⇦ Go Back</strong></a>
 
 ## Contact
 

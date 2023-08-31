@@ -5,7 +5,7 @@
       <a href="#about-the-projects">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">Heart Disease Prediction Project</a></li>
+        <li><a href="#heart-disease-prediction-project">Heart Disease Prediction Project</a></li>
         <li><a href="#bulldozer-price-prediction-project">Bulldozer Price Prediction Project</a></li>
       </ul>
     </li>
@@ -18,3 +18,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+Heart Disease Prediction Project
+<a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">Information Doc</a>

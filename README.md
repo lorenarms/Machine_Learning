@@ -5,7 +5,7 @@
       <a href="#about-the-projects">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">Heart Disease Prediction Project</a></li>
+        <li><a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">Heart Disease Prediction Project</a></li>
         <li><a href="#bulldozer-price-prediction-project">Bulldozer Price Prediction Project</a></li>
       </ul>
     </li>

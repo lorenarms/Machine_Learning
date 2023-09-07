@@ -31,38 +31,49 @@
 
 ## About The Project
 
-More information about this project goes here.
+This is a collection of weekend coding projects that I built to practice machine learning methods and strategies. This project is ever-changing and evolving, and I'm always adding to it, so come back often to see what else I've built. Most projects are build on my own machine in Jupyter notebook with Python 3, but some use Google's Colab environment to give me access to TensorFlow and the Keras API. 
+
+Feel free to fork the projects to try them out on your own, and let me know what you think! 
+
+---
 
 ### 💗 Heart Disease Prediction Project
 
-More information goes here.
-<a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">More Information</a>
+Can machine learning predict whether or not a person has heart disease, based on a selection of symptoms and health metrics? Which of those metrics correlates the most with the disease presence in a patient? Let's find out! <a href="https://github.com/lorenarms/Machine_Learning/blob/main/heart_disease_project/info.md">More Information</a>
 
 ### 🚧 Bulldozer Price Prediction Project
 
-More information goes here.
-<a href="https://github.com/lorenarms/Machine_Learning/blob/main/bulldozer_price_prediction_project/info.md">More Information</a>
+The last time you went to purchase a new bulldozer for the farm you were absolutely gobsmacked by the price. Is there a way to have machine learning predict the price of a bulldozer based on past data? Which metrics factor the most when it comes to how much a bulldozer sells for? Time to build a model for regressive prediction! <a href="https://github.com/lorenarms/Machine_Learning/blob/main/bulldozer_price_prediction_project/info.md">More Information</a>
 
 ### 🐕 Dog Classification Project
 
-More information goes here.
-<a href="https://github.com/lorenarms/Machine_Learning/blob/main/dog_classification/info.md">More Information</a>
+What kind of dog is that over there? Unless your an expert on canines, you might be wondering if there's a way to train a computer to identify a dog breed based on it's photo. Well wonder no more, as we dive into this TensorFlow project do exactly that! <a href="https://github.com/lorenarms/Machine_Learning/blob/main/dog_classification/info.md">More Information</a>
+
+---
 
 ## Setup
 
-Setup instructions go here.
+With the exception of any Google Colab projects, all projects here were built and run in CONDA and on Jupyter Notebooks with Python 3. To set up your environment, you'll want to download and install MiniConda [here](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
+
+> Create a new environment with `conda create –prefix ./env pandas numpy matplotlib scikit-learn jupyter` This will install the libraries necessary to run the projects on your machine.
+
+> Activate the environment with `conda activate` and the path of the `\env` folder.
+
+> Run with `jupyter`
 
 ## Roadmap
 
-Roadmap goes here.
+- [X] Build projects
+- [X] Update Readme
+- [ ] Build more projects
 
 ## Contributing
 
-How to contribute goes here.
+Post issues [here](https://github.com/lorenarms/Machine_Learning/issues)
 
 ## License
 
-License information goes here.
+Free to use, no license needed.
 
 ## Contact
 

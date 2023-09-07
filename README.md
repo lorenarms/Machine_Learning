@@ -43,6 +43,11 @@ More information goes here.
 More information goes here.
 <a href="https://github.com/lorenarms/Machine_Learning/blob/main/bulldozer_price_prediction_project/info.md">More Information</a>
 
+### 🐕 Dog Classification Project
+
+More information goes here.
+<a href="https://github.com/lorenarms/Machine_Learning/blob/main/dog_classification/info.md">More Information</a>
+
 ## Setup
 
 Setup instructions go here.

@@ -3,7 +3,7 @@
 
 ## The Problem
 
-In this machine learning project, we'll be exploring the feesablity of developing a model that can determine a dog's breed by looking at it's picture. The ultimate goal will be to have a fully trained model that can run predictions on custom images of dogs.
+In this machine learning project, I'll be exploring the feesablity of developing a model that can determine a dog's breed by looking at it's picture. The ultimate goal will be to have a fully trained model that can run predictions on custom images of dogs.
 
 ## The Data
 

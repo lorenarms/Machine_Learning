@@ -47,7 +47,7 @@ The last time you went to purchase a new bulldozer for the farm you were absolut
 
 ### 🐕 Dog Classification Project
 
-What kind of dog is that over there? Unless your an expert on canines, you might be wondering if there's a way to train a computer to identify a dog breed based on it's photo. Well wonder no more, as we dive into this TensorFlow project do exactly that! <a href="https://github.com/lorenarms/Machine_Learning/blob/main/dog_classification/info.md">More Information</a>
+What kind of dog is that over there? Unless you're an expert on canines, you might be wondering if there's a way to train a computer to identify a dog breed based on it's photo. Well wonder no more, as we dive into this TensorFlow project do exactly that! <a href="https://github.com/lorenarms/Machine_Learning/blob/main/dog_classification/info.md">More Information</a>
 
 ---
 
